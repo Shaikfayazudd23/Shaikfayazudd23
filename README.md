@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shaik Fayazuddin
 ========================================================================================================================================
 
-Cloud Engineer and web Developer
+Entry-level cloud & devops enthusiast eager to join a dynamic team.
 --------------------------------
 
 Aspiring Cloud and devops engineer with a passion for automation.cloud technologies and contoous learning.
