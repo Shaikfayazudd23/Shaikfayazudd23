@@ -25,7 +25,6 @@ I'm an aspiring *Cloud and DevOps Engineer* passionate about building modern clo
 ## 🚀 What I'm currently working on:
 - Deploying multi-tier applications using *Docker Swarm* and *Kubernetes*
 - Building cloud-native projects on *AWS* using EC2, S3, RDS, IAM, VPC, Lambda, and more
-- Improving my *English communication* and technical writing skills
 
 ## 🎯 Interests:
 - Cloud Computing & DevOps
@@ -33,7 +32,6 @@ I'm an aspiring *Cloud and DevOps Engineer* passionate about building modern clo
 - Infrastructure as Code (IaC)
 - Problem Solving & Automation
 - Writing Scripts (Bash & Python)
-- Enhancing Spoken English Fluency
 
 ## 🛠 Skills & Technologies:
 - *Cloud:* AWS (EC2, S3, RDS, IAM, VPC, Lambda, CloudWatch)
