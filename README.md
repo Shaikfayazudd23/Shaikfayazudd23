@@ -54,8 +54,6 @@ I'm an aspiring *Cloud and DevOps Engineer* passionate about building modern clo
 
 <a href="http://www.github.com/Shaikfayazudd23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikfayazudd23&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
 ## 📫 Let's connect!
 Feel free to check out my projects and follow along as I continue to grow in cloud, DevOps, and programming.
 
